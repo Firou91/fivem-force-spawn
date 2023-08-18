@@ -1,0 +1,8 @@
+data/cache
+data/.old
+data/.replxx_history
+data/*.bkp
+
+server
+txData
+*.bat
